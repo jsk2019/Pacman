@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VC>
+  <Group>
+    <Item>
+      <ID>1</ID>
+      <Score>6800</Score>
+      <Time>05月25日</Time>
+    </Item>
+    <Item>
+      <ID>2</ID>
+      <Score>6700</Score>
+      <Time>05月07日</Time>
+    </Item>
+    <Item>
+      <ID>3</ID>
+      <Score>6700</Score>
+      <Time>05月07日</Time>
+    </Item>
+    <Item>
+      <ID>4</ID>
+      <Score>6500</Score>
+      <Time>05月18日</Time>
+    </Item>
+    <Item>
+      <ID>5</ID>
+      <Score>6500</Score>
+      <Time>05月18日</Time>
+    </Item>
+  </Group>
+</VC>
