@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
     private int pacdotNum = 0;
     private int nowEat = 0;
     public int score = 0;
-    private float timer = 5f;
+    private float timer = 20f;
     public GameObject time;
     private bool isStart = false;
 

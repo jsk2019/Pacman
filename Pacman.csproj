@@ -228,9 +228,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\dao\HelperXML.cs" />
     <Compile Include="Assets\Scripts\dao\SqliteDbHelper.cs" />
+    <Compile Include="Assets\Scripts\model\Bullet.cs" />
     <Compile Include="Assets\Scripts\model\GameInfoModel.cs" />
     <Compile Include="Assets\Scripts\model\Pacdot.cs" />
     <Compile Include="Assets\Scripts\model\User.cs" />
+    <Compile Include="Assets\Scripts\model\Weapon.cs" />
     <Compile Include="Assets\Scripts\service\GameManager.cs" />
     <Compile Include="Assets\Scripts\service\GhostMove.cs" />
     <Compile Include="Assets\Scripts\service\IndexManager.cs" />

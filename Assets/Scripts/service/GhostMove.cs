@@ -80,7 +80,11 @@ public class GhostMove : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-
+        if (collision.gameObject.name == "firePoint")
+        {
+            GameManager.Instance.score += 500;
+            nowScore += 500;
+        }
         if (collision.gameObject.name == "Pacman")
         {
 

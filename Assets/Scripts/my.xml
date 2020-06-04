@@ -3,28 +3,28 @@
   <Group>
     <Item>
       <ID>1</ID>
+      <Score>17800</Score>
+      <Time>06月02日</Time>
+    </Item>
+    <Item>
+      <ID>2</ID>
+      <Score>13200</Score>
+      <Time>06月03日</Time>
+    </Item>
+    <Item>
+      <ID>3</ID>
       <Score>6800</Score>
       <Time>05月25日</Time>
     </Item>
     <Item>
-      <ID>2</ID>
-      <Score>6700</Score>
-      <Time>05月07日</Time>
-    </Item>
-    <Item>
-      <ID>3</ID>
-      <Score>6700</Score>
-      <Time>05月07日</Time>
-    </Item>
-    <Item>
       <ID>4</ID>
-      <Score>6500</Score>
-      <Time>05月18日</Time>
+      <Score>6700</Score>
+      <Time>05月07日</Time>
     </Item>
     <Item>
       <ID>5</ID>
-      <Score>6500</Score>
-      <Time>05月18日</Time>
+      <Score>6700</Score>
+      <Time>05月07日</Time>
     </Item>
   </Group>
 </VC>
